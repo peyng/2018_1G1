@@ -63,7 +63,7 @@ background-color: rgba(0, 225, 0, 0.3);
 
 
 body {
-  background: #a8ffff url(https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/00_test/back.jpg) no-repeat fixed;
+  background: #a8ffff url(back.jpg) no-repeat fixed;
   color: #ffffff; background-size:cover; 
 }
 
@@ -111,10 +111,10 @@ a.p:hover span {
  
     
 <h2><span class="snow">ジュース早飲み競争、豊田さん一番！</span></h2>
-<a href="https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/00_test/IMG_2713.jpg" data-lightbox="abc"><img src="https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/00_test/IMG_2713.jpg" alt="サンプル画像" width="500" /></a>
+<a href="IMG_2713.jpg" data-lightbox="abc"><img src="IMG_2713.jpg" alt="サンプル画像" width="500" /></a>
 
 <h2><span class="snow">集合写真、背景と同じものです</span></h2>
-<a href="https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/00_test/IMG_0249.jpg" data-lightbox="abc"><img src="https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/00_test/IMG_0249.jpg" alt="サンプル画像" width="500" /></a>
+<a href="IMG_0249.jpg" data-lightbox="abc"><img src="IMG_0249.jpg" alt="サンプル画像" width="500" /></a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
