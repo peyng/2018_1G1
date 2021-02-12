@@ -1,6 +1,5 @@
 # 2018_1G1
 
-<!DOCTYPE html>
 <html>
 <head>
 
