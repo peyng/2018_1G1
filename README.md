@@ -127,9 +127,9 @@ a.p:hover span {
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
-<script type='text/javascript' src='https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/jquery.js?ver=1.12.4'></script> 
-<script src="https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/jquery.goup.min.js"></script> 
-<script src="https://globalsps.mds.honda.com/sites/jphgt38/Shared%20Documents/my.js"></script>
+<script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
+<script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
+<script src="https://torokoid.github.io/shiba/my.js"></script>
 
 
 </body>
